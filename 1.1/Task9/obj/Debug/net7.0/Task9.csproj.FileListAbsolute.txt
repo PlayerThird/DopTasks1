@@ -1,0 +1,15 @@
+G:\GB\C#\Доп дз по 2му семинару\1.1\Task9\bin\Debug\net7.0\Task9.exe
+G:\GB\C#\Доп дз по 2му семинару\1.1\Task9\bin\Debug\net7.0\Task9.deps.json
+G:\GB\C#\Доп дз по 2му семинару\1.1\Task9\bin\Debug\net7.0\Task9.runtimeconfig.json
+G:\GB\C#\Доп дз по 2му семинару\1.1\Task9\bin\Debug\net7.0\Task9.dll
+G:\GB\C#\Доп дз по 2му семинару\1.1\Task9\bin\Debug\net7.0\Task9.pdb
+G:\GB\C#\Доп дз по 2му семинару\1.1\Task9\obj\Debug\net7.0\Task9.csproj.AssemblyReference.cache
+G:\GB\C#\Доп дз по 2му семинару\1.1\Task9\obj\Debug\net7.0\Task9.GeneratedMSBuildEditorConfig.editorconfig
+G:\GB\C#\Доп дз по 2му семинару\1.1\Task9\obj\Debug\net7.0\Task9.AssemblyInfoInputs.cache
+G:\GB\C#\Доп дз по 2му семинару\1.1\Task9\obj\Debug\net7.0\Task9.AssemblyInfo.cs
+G:\GB\C#\Доп дз по 2му семинару\1.1\Task9\obj\Debug\net7.0\Task9.csproj.CoreCompileInputs.cache
+G:\GB\C#\Доп дз по 2му семинару\1.1\Task9\obj\Debug\net7.0\Task9.dll
+G:\GB\C#\Доп дз по 2му семинару\1.1\Task9\obj\Debug\net7.0\refint\Task9.dll
+G:\GB\C#\Доп дз по 2му семинару\1.1\Task9\obj\Debug\net7.0\Task9.pdb
+G:\GB\C#\Доп дз по 2му семинару\1.1\Task9\obj\Debug\net7.0\Task9.genruntimeconfig.cache
+G:\GB\C#\Доп дз по 2му семинару\1.1\Task9\obj\Debug\net7.0\ref\Task9.dll
