@@ -1,0 +1,15 @@
+G:\GB\C#\Доп дз по 2му семинару\1.1\Task10Experemental\bin\Debug\net7.0\Task10Experemental.exe
+G:\GB\C#\Доп дз по 2му семинару\1.1\Task10Experemental\bin\Debug\net7.0\Task10Experemental.deps.json
+G:\GB\C#\Доп дз по 2му семинару\1.1\Task10Experemental\bin\Debug\net7.0\Task10Experemental.runtimeconfig.json
+G:\GB\C#\Доп дз по 2му семинару\1.1\Task10Experemental\bin\Debug\net7.0\Task10Experemental.dll
+G:\GB\C#\Доп дз по 2му семинару\1.1\Task10Experemental\bin\Debug\net7.0\Task10Experemental.pdb
+G:\GB\C#\Доп дз по 2му семинару\1.1\Task10Experemental\obj\Debug\net7.0\Task10Experemental.csproj.AssemblyReference.cache
+G:\GB\C#\Доп дз по 2му семинару\1.1\Task10Experemental\obj\Debug\net7.0\Task10Experemental.GeneratedMSBuildEditorConfig.editorconfig
+G:\GB\C#\Доп дз по 2му семинару\1.1\Task10Experemental\obj\Debug\net7.0\Task10Experemental.AssemblyInfoInputs.cache
+G:\GB\C#\Доп дз по 2му семинару\1.1\Task10Experemental\obj\Debug\net7.0\Task10Experemental.AssemblyInfo.cs
+G:\GB\C#\Доп дз по 2му семинару\1.1\Task10Experemental\obj\Debug\net7.0\Task10Experemental.csproj.CoreCompileInputs.cache
+G:\GB\C#\Доп дз по 2му семинару\1.1\Task10Experemental\obj\Debug\net7.0\Task10Experemental.dll
+G:\GB\C#\Доп дз по 2му семинару\1.1\Task10Experemental\obj\Debug\net7.0\refint\Task10Experemental.dll
+G:\GB\C#\Доп дз по 2му семинару\1.1\Task10Experemental\obj\Debug\net7.0\Task10Experemental.pdb
+G:\GB\C#\Доп дз по 2му семинару\1.1\Task10Experemental\obj\Debug\net7.0\Task10Experemental.genruntimeconfig.cache
+G:\GB\C#\Доп дз по 2му семинару\1.1\Task10Experemental\obj\Debug\net7.0\ref\Task10Experemental.dll
