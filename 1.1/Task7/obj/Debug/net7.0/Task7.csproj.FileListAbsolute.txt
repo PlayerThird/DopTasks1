@@ -1,0 +1,15 @@
+G:\GB\C#\Доп дз по 2му семинару\1.1\Task7\obj\Debug\net7.0\Task7.csproj.AssemblyReference.cache
+G:\GB\C#\Доп дз по 2му семинару\1.1\Task7\obj\Debug\net7.0\Task7.GeneratedMSBuildEditorConfig.editorconfig
+G:\GB\C#\Доп дз по 2му семинару\1.1\Task7\obj\Debug\net7.0\Task7.AssemblyInfoInputs.cache
+G:\GB\C#\Доп дз по 2му семинару\1.1\Task7\obj\Debug\net7.0\Task7.AssemblyInfo.cs
+G:\GB\C#\Доп дз по 2му семинару\1.1\Task7\obj\Debug\net7.0\Task7.csproj.CoreCompileInputs.cache
+G:\GB\C#\Доп дз по 2му семинару\1.1\Task7\bin\Debug\net7.0\Task7.exe
+G:\GB\C#\Доп дз по 2му семинару\1.1\Task7\bin\Debug\net7.0\Task7.deps.json
+G:\GB\C#\Доп дз по 2му семинару\1.1\Task7\bin\Debug\net7.0\Task7.runtimeconfig.json
+G:\GB\C#\Доп дз по 2му семинару\1.1\Task7\bin\Debug\net7.0\Task7.dll
+G:\GB\C#\Доп дз по 2му семинару\1.1\Task7\bin\Debug\net7.0\Task7.pdb
+G:\GB\C#\Доп дз по 2му семинару\1.1\Task7\obj\Debug\net7.0\Task7.dll
+G:\GB\C#\Доп дз по 2му семинару\1.1\Task7\obj\Debug\net7.0\refint\Task7.dll
+G:\GB\C#\Доп дз по 2му семинару\1.1\Task7\obj\Debug\net7.0\Task7.pdb
+G:\GB\C#\Доп дз по 2му семинару\1.1\Task7\obj\Debug\net7.0\Task7.genruntimeconfig.cache
+G:\GB\C#\Доп дз по 2му семинару\1.1\Task7\obj\Debug\net7.0\ref\Task7.dll
