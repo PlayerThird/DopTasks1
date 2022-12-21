@@ -1,4 +1,5 @@
-﻿Console.WriteLine("Введите первую цифру: ");
+﻿// Вычисляется сумма всех нечетных натуральных чисел от n1 до n2
+Console.WriteLine("Введите первую цифру: ");
 int n1 = int.Parse(Console.ReadLine());
 Console.WriteLine("Введите вторую цифру: ");
 int n2 = int.Parse(Console.ReadLine());
