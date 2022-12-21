@@ -1,0 +1,15 @@
+G:\GB\C#\Доп дз по 2му семинару\1.2\Primer5\bin\Debug\net7.0\Primer5.exe
+G:\GB\C#\Доп дз по 2му семинару\1.2\Primer5\bin\Debug\net7.0\Primer5.deps.json
+G:\GB\C#\Доп дз по 2му семинару\1.2\Primer5\bin\Debug\net7.0\Primer5.runtimeconfig.json
+G:\GB\C#\Доп дз по 2му семинару\1.2\Primer5\bin\Debug\net7.0\Primer5.dll
+G:\GB\C#\Доп дз по 2му семинару\1.2\Primer5\bin\Debug\net7.0\Primer5.pdb
+G:\GB\C#\Доп дз по 2му семинару\1.2\Primer5\obj\Debug\net7.0\Primer5.csproj.AssemblyReference.cache
+G:\GB\C#\Доп дз по 2му семинару\1.2\Primer5\obj\Debug\net7.0\Primer5.GeneratedMSBuildEditorConfig.editorconfig
+G:\GB\C#\Доп дз по 2му семинару\1.2\Primer5\obj\Debug\net7.0\Primer5.AssemblyInfoInputs.cache
+G:\GB\C#\Доп дз по 2му семинару\1.2\Primer5\obj\Debug\net7.0\Primer5.AssemblyInfo.cs
+G:\GB\C#\Доп дз по 2му семинару\1.2\Primer5\obj\Debug\net7.0\Primer5.csproj.CoreCompileInputs.cache
+G:\GB\C#\Доп дз по 2му семинару\1.2\Primer5\obj\Debug\net7.0\Primer5.dll
+G:\GB\C#\Доп дз по 2му семинару\1.2\Primer5\obj\Debug\net7.0\refint\Primer5.dll
+G:\GB\C#\Доп дз по 2му семинару\1.2\Primer5\obj\Debug\net7.0\Primer5.pdb
+G:\GB\C#\Доп дз по 2му семинару\1.2\Primer5\obj\Debug\net7.0\Primer5.genruntimeconfig.cache
+G:\GB\C#\Доп дз по 2му семинару\1.2\Primer5\obj\Debug\net7.0\ref\Primer5.dll
