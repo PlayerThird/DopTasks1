@@ -1,0 +1,15 @@
+G:\GB\C#\Доп дз по 2му семинару\1.2\Task8\bin\Debug\net7.0\Task8.exe
+G:\GB\C#\Доп дз по 2му семинару\1.2\Task8\bin\Debug\net7.0\Task8.deps.json
+G:\GB\C#\Доп дз по 2му семинару\1.2\Task8\bin\Debug\net7.0\Task8.runtimeconfig.json
+G:\GB\C#\Доп дз по 2му семинару\1.2\Task8\bin\Debug\net7.0\Task8.dll
+G:\GB\C#\Доп дз по 2му семинару\1.2\Task8\bin\Debug\net7.0\Task8.pdb
+G:\GB\C#\Доп дз по 2му семинару\1.2\Task8\obj\Debug\net7.0\Task8.csproj.AssemblyReference.cache
+G:\GB\C#\Доп дз по 2му семинару\1.2\Task8\obj\Debug\net7.0\Task8.GeneratedMSBuildEditorConfig.editorconfig
+G:\GB\C#\Доп дз по 2му семинару\1.2\Task8\obj\Debug\net7.0\Task8.AssemblyInfoInputs.cache
+G:\GB\C#\Доп дз по 2му семинару\1.2\Task8\obj\Debug\net7.0\Task8.AssemblyInfo.cs
+G:\GB\C#\Доп дз по 2му семинару\1.2\Task8\obj\Debug\net7.0\Task8.csproj.CoreCompileInputs.cache
+G:\GB\C#\Доп дз по 2му семинару\1.2\Task8\obj\Debug\net7.0\Task8.dll
+G:\GB\C#\Доп дз по 2му семинару\1.2\Task8\obj\Debug\net7.0\refint\Task8.dll
+G:\GB\C#\Доп дз по 2му семинару\1.2\Task8\obj\Debug\net7.0\Task8.pdb
+G:\GB\C#\Доп дз по 2му семинару\1.2\Task8\obj\Debug\net7.0\Task8.genruntimeconfig.cache
+G:\GB\C#\Доп дз по 2му семинару\1.2\Task8\obj\Debug\net7.0\ref\Task8.dll
